@@ -1,3 +1,5 @@
+%author:Bikal Shrestha
+
 clear;
 close all;
 clear all;
