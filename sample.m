@@ -1,3 +1,6 @@
+%author:Bikal Shrestha
+
+
 %normalized field pattern
     
      x=0:0.0005:2*pi;
